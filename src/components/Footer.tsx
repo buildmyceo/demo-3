@@ -112,6 +112,7 @@ const Footer: React.FC = () => {
             <Link to="/" className="hover:underline">Interest-Based Ads</Link>
           </div>
           <p>© 2024-2026, NexCart.com, Inc. or its affiliates</p>
+          <p className="mt-2 font-medium text-slate-400">sampel by buildmyceo</p>
         </div>
       </div>
     </footer>
